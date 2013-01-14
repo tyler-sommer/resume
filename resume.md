@@ -86,9 +86,3 @@ Qualifications
  - *nix: CentOS, Ubuntu, Slackware, OS X
  - Webservers: Apache, Nginx
  - Additional notables: Windows Server 2008 and IIS 7+, Apache Tomcat
-
-
-Education
----------
-High School Graduate: Granger High School, Class of 2007
-
