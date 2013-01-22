@@ -2,52 +2,47 @@ Tyler Sommer
 ============
 
 #### Software Developer
-##### (801) 232-1478 - sommertm@gmail.com
+##### (801) 232-1478
+##### sommertm@gmail.com
 
 Overview
 --------
-Four years of professional software developement experience in demanding, fast-paced environments. Focus primarily in backend systems: e-commerce, payment processing platforms, and business management software. Strengths including problem solving, communication, technical writing. Passionate about open source software.
+Four years of professional software developement experience in demanding, fast-paced environments. Focus primarily in backend systems: e-commerce, payment processing platforms, and business management software. Strengths include problem solving, communication, technical writing, and server management. Passionate about open source software.
 
 
 Experience
 ----------
 
 ### PayRoll Innovations
-_2011 through present_
+_Lead Developer, 2011 through present_
 
-Developed payday advance loan processing system integrated with card issuing platforms. 
+Developed payday advance loan processing system integrated with card issuing platforms. Implemented risk scoring algorithm to automatically qualify potential loan applicants based on various factors. Maintained small server cluster including primary and failover web and database servers.
 
 **Technology:** PHP and MySQL, Symfony 2.x, Doctrine 2.x
 
 
 ### Pocomos Pest Control Management
-_2012 through present_
+_Lead Developer, 2012 through present_
 
-Full-featured pest control management system. Developed truck routing system with automatic route scheduling and optimization algorithms.
+Full-featured pest control management system. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location.
 
 **Technology:** PHP and MySQL, Symfony 2.1, Doctrine 2.3
 
 
 ### WhyForget Online Memorial
-_2012 through present_
+_Lead Developer, 2012 through present_
 
-Smaller application utilizing QR codes to bring a physical memorial in touch with an 'eternal' online presence, letting family members create a lasting public profile for their late loved ones.
+Application utilizing QR codes to bring a physical memorial in touch with an 'eternal' online presence, letting family members create a lasting public profile for their late loved ones.
 
 **Technology:** PHP and MySQL, Symfony 2.1, Doctrine 2.3
 
 
-### NovaShip
-_2010 through 2011_
+### NovaCare
+_Project Manager/Developer, 2008 through 2011_
 
-Fulfillment management system. Improved legacy technologies, increasing scalability and stability. Supported hundreds of clients 
+Integrated vendors and clients with payment processing and order tracking platform. Maintained multiple analytics platforms to provide marketing campaign metrics. Maintained and improved fulfillment management system. Ported existing Classic ASP technology to more recent ASP.NET based architechture. Improved manual processes, implemented automation tools for managing high-volume printing and returns processing.
 
 **Technology:** MySQL, PHP, ASP, C# and ASP.NET
-
-
-### NovaMark
-_2008 through 2010_
-
-Focus on project management. Worked with vendors to develop reporting platform for various online affiliate marketing offers to deliver key product analytics.
 
 
 ### Et. cetera
