@@ -2,19 +2,23 @@ body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
   line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
   background-color: white;
-  padding: 30px;
   color: #333;
+  margin: 10px 0;
 }
 
-body > *:first-child {
+.markdown-body > *:first-child {
   margin-top: 0 !important;
 }
 
-body > *:last-child {
+.markdown-body > *:last-child {
   margin-bottom: 0 !important;
+}
+
+.markdown-body {
+  padding: 10px 0;
+  width: 900px;
+  margin: 0 auto;
 }
 
 a {
@@ -96,10 +100,12 @@ h3 {
 
 h4 {
   font-size: 16px;
+  margin: 0;
 }
 
 h5 {
   font-size: 14px;
+  margin: 0;
 }
 
 h6 {
@@ -154,6 +160,10 @@ li p.first {
 
 ul, ol {
   padding-left: 30px;
+}
+
+ul li {
+  margin: 0;
 }
 
 ul :first-child, ol :first-child {
@@ -384,4 +394,15 @@ pre {
 pre code, pre tt {
   background-color: transparent;
   border: none;
+}
+
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0
 }
