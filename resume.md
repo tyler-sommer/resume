@@ -26,7 +26,7 @@ _Lead Developer, 2012 through present_
 
 Full-featured pest control management system. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location. Implemented proprietary data mining framework to facilitate analytics and reporting for independent sales teams and salespeople.
 
-**Technology stack:** PHP, MySQL, and Apache. Symfony 2.1, Doctrine 2.3
+**Technology stack:** PHP, MySQL, and Apache. Symfony 2.1, Zend Framework 2.0, Doctrine 2.3
 
 
 ### WhyForget Online Memorial
