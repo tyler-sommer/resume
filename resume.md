@@ -52,30 +52,17 @@ Integrated vendors and clients with payment processing and order tracking platfo
  - Merchant management system to aid in supporting hundreds of merchants, online and brick and mortar. Automated previously manual data entry process and implemented analytics and reporting.
 
 
-Open Source
------------
-### Orkestra
-_Maintainer_
+### Open Source
 
- - Several projects ranging from reporting bundles for Symfony, payment processing, and API consumption libraries. Primarily PHP.
-
-### Symfony
-_Contributor_
-
- - Contributed documentation fixes and updates since version 2.0
-
-### Doctrine
-_Contributor_
-
- - Implemented additional features and bugfixes in Doctrine 2.x projects including DBAL and migrations.
+Maintainer of Orkestra community responsible for multiple projects ranging from reporting bundles for Symfony, payment processing, and API consumption libraries.
 
 
 Qualifications
 --------------
 
 #### Languages
- - **Primary strengths:** PHP, C#, MySQL, Javascript, HTML, CSS (LESS, SASS)
- - **Working knowledge:** Ruby (and Ruby on Rails), Python, Java, C, Obj-C, MongoDB
+ - **Primary strengths:** PHP, MySQL, Javascript, HTML, CSS (LESS, SASS)
+ - **Working knowledge:** Ruby (incl. Ruby on Rails), Python, Java, C#, C, Obj-C, MongoDB
 
 #### Platforms
  - *nix: CentOS, Ubuntu, Slackware, OS X
