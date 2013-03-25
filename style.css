@@ -104,8 +104,13 @@ h4 {
 }
 
 h5 {
-  font-size: 14px;
+  font-size: 13px;
   margin: 0;
+}
+
+h5 em {
+  font-style: normal;
+  font-weight: normal;
 }
 
 h6 {

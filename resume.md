@@ -2,8 +2,9 @@ Tyler Sommer
 ============
 
 #### Software Developer
-##### (801) 232-1478
-##### sommertm@gmail.com
+##### *Cell*: (801) 232-1478
+##### *Email*: sommertm@gmail.com
+##### *Github*: [tyler-sommer](https://github.com/tyler-sommer)
 
 Overview
 --------
@@ -60,7 +61,7 @@ Maintainer of Orkestra community responsible for multiple projects ranging from 
 Qualifications
 --------------
 
-#### Languages
+#### Languages, tools, and frameworks
  - **Primary strengths:** PHP, MySQL, Javascript, HTML, CSS (LESS, SASS)
  - **Working knowledge:** Ruby (incl. Ruby on Rails), Python, Java, C#, C, Obj-C, MongoDB
 
