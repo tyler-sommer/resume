@@ -3,7 +3,7 @@ Tyler Sommer
 
 #### Software Developer
 ##### *Cell*: (801) 232-1478
-##### *Email*: sommertm@gmail.com
+##### *Email*: contact@tylersommer.pro
 ##### *Github*: [tyler-sommer](https://github.com/tyler-sommer)
 
 Overview
