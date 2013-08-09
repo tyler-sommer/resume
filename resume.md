@@ -15,7 +15,6 @@ Experience
 ----------
 
 ### Pocomos Pest Control Management
-_Lead Developer, 2012 through present_
 
 Full-featured pest control management system. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location. Implemented proprietary data mining framework to facilitate analytics and reporting for independent sales teams and salespeople.
 
@@ -23,7 +22,6 @@ Full-featured pest control management system. Developed truck routing system wit
 
 
 ### WhyForget Online Memorial
-_Lead Developer, 2012 through present_
 
 Application utilizing QR codes to bring a physical memorial in touch with an 'eternal' online presence, letting family members create a lasting public profile for their late loved ones. Integrated with physical QR code printing software to give users the ability to affix a physical QR code to their loved one's headstone.
 
@@ -31,7 +29,6 @@ Application utilizing QR codes to bring a physical memorial in touch with an 'et
 
 
 ### PayRoll Innovations
-_Lead Developer, 2011 through 2013_
 
 Developed payday advance loan processing system integrated with card issuing platforms. Implemented risk scoring algorithm to automatically qualify potential loan applicants based on various factors. Maintained small server cluster including primary and failover web and database servers.
 
@@ -39,7 +36,6 @@ Developed payday advance loan processing system integrated with card issuing pla
 
 
 ### NovaCare
-_Project Manager/Developer, 2008 through 2011_
 
 Integrated vendors and clients with payment processing and order tracking platform. Maintained multiple analytics platforms to provide marketing campaign metrics. Maintained and improved fulfillment management system. Ported existing Classic ASP technology to more recent ASP.NET based architechture. Improved manual processes, implemented automation tools for managing high-volume printing and returns processing.
 
