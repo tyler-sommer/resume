@@ -7,6 +7,7 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, file_get_contents(__DIR__ . '/../resume.md'
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_HEADER, false);
 curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-type: text/plain'));
+curl_setopt($ch, CURLOPT_USERAGENT, 'Tyler Sommer\'s Resume Builder');
 
 $response = curl_exec($ch);
 
