@@ -14,4 +14,4 @@ $response = curl_exec($ch);
 
 $template = file_get_contents(__DIR__ . '/../views/template.html');
 
-file_put_contents(__DIR__ . '/../web/index.html', str_replace('{{ body }}', $response, $template));
+file_put_contents(__DIR__ . '/../web/index.html', str_replace('{{ body }}', str_replace('name="user-content-', 'name="', $response), $template));

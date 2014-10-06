@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.6;
   background-color: white;
   color: #333;
@@ -31,14 +31,24 @@ a.absent {
 }
 
 a.anchor {
-  display: block;
-  padding-left: 30px;
+  color: #333;
+  opacity: 0;
   margin-left: -30px;
   cursor: pointer;
   position: absolute;
   top: 0;
   left: 0;
-  bottom: 0;
+  bottom: 0
+}
+
+a.anchor:focus, a.anchor:active {
+	outline: none;
+	opacity: 1;
+}
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  border: 0;
+  opacity: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -189,7 +199,7 @@ dl {
 }
 
 dl dt {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   font-style: italic;
   padding: 0;
@@ -404,19 +414,4 @@ pre {
 pre code, pre tt {
   background-color: transparent;
   border: none;
-}
-
-a.anchor {
-  opacity: 0;
-  padding-left: 0;
-  margin-left: -25px;
-  cursor: pointer;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0
-}
-
-a.anchor:hover {
-  opacity: 1;
 }
