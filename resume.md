@@ -14,32 +14,19 @@ Six years of professional software development experience in demanding, fast-pac
 Experience
 ----------
 
-### Easy Payment Kiosk
+### Lead Developer *for Pocomos Pest Control Software*
+
+Full-featured pest control management system built with Symfony 2. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location. Implemented proprietary data mining framework to facilitate analytics and reporting for independent sales teams and salespeople.
+
+
+### Lead Developer *for Easy Payment Kiosk, LLC*
 
 Engineered payment processing iOS application, integrated with custom Symfony 2 back office application. Back office application features sales team tracking and analytics, automated account activation with integration at various payment processors.
 
-**Technology stack:** PHP using Symfony 2, Objective-C using iOS SDK
 
-
-### Pocomos Pest Control Management
-
-Full-featured pest control management system. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location. Implemented proprietary data mining framework to facilitate analytics and reporting for independent sales teams and salespeople.
-
-**Technology stack:** PHP, MySQL, Redis, and Apache. Symfony 2, Zend Framework 2, Doctrine 2
-
-
-### WhyForget Online Memorial
-
-Application utilizing QR codes to bring a physical memorial in touch with an 'eternal' online presence, letting family members create a lasting public profile for their late loved ones. Integrated with physical QR code printing software to give users the ability to affix a physical QR code to their loved one's headstone.
-
-**Technology stack:** PHP, MySQL, and Apache. Symfony 2, Doctrine 2
-
-
-### PayRoll Innovations
+### Lead Developer *for PayRoll Innovations, LLC*
 
 Developed payday advance loan processing system integrated with card issuing platforms. Implemented risk scoring algorithm to automatically qualify potential loan applicants based on various factors. Maintained small server cluster including primary and failover web and database servers.
-
-**Technology stack:** PHP, MySQL, Apache, and Nginx. Symfony 2, Doctrine 2
 
 
 ### Et. cetera
@@ -59,10 +46,9 @@ Qualifications
 --------------
 
 #### Languages, tools, and frameworks
- - **Primary strengths:** PHP, MySQL, Javascript, HTML, CSS (LESS, SASS)
- - **Working knowledge:** Obj-C, C, Ruby (on Rails), Python, Java, C#, MongoDB
+ - **Primary strengths:** PHP, MySQL, Javascript, HTML, CSS
+ - **Working knowledge:** Go, Obj-C, C, Ruby (on Rails), Python, Java, C#, MongoDB
 
 #### Platforms
  - *nix: CentOS, Ubuntu, Slackware, OS X
  - Webservers: Apache, Nginx
- - Additional notables: Windows Server 2008 and IIS 7+, Apache Tomcat
