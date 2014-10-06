@@ -14,17 +14,17 @@ Six years of professional software development experience in demanding, fast-pac
 Experience
 ----------
 
-### Lead Developer *for Pocomos Pest Control Software*
+### Lead Developer *for Pocomos Pest Control Software (2012- )*
 
 Full-featured pest control management system built with Symfony 2. Developed truck routing system with automatic route scheduling and optimization algorithms based on customer location. Implemented proprietary data mining framework to facilitate analytics and reporting for independent sales teams and salespeople.
 
 
-### Lead Developer *for Easy Payment Kiosk, LLC*
+### Lead Developer *for Easy Payment Kiosk, LLC (2012-2014)*
 
 Engineered payment processing iOS application, integrated with custom Symfony 2 back office application. Back office application features sales team tracking and analytics, automated account activation with integration at various payment processors.
 
 
-### Lead Developer *for PayRoll Innovations, LLC*
+### Lead Developer *for PayRoll Innovations, LLC (2010-2012)*
 
 Developed payday advance loan processing system integrated with card issuing platforms. Implemented risk scoring algorithm to automatically qualify potential loan applicants based on various factors. Maintained small server cluster including primary and failover web and database servers.
 
